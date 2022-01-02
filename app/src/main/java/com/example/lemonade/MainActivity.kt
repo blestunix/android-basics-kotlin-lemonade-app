@@ -21,6 +21,9 @@ import android.widget.ImageView
 import android.widget.TextView
 import com.google.android.material.snackbar.Snackbar
 
+/**
+ * Student name: Saud Kadiri
+ */
 class MainActivity : AppCompatActivity() {
 
     /**
